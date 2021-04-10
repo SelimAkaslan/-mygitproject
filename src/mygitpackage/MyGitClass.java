@@ -15,9 +15,13 @@ public class MyGitClass {
 			
 		}
 		System.out.println();
-		
+		System.out.println("Deneme icin commit");
 		System.out.println("My 6. conflict commit");
 		System.out.println("Uzak sunucudaki kodlarim");
+		int sayi1 = 10;
+		for (int i = 0; i < sayi1; i++) {
+			System.out.print(i+",");
+	}
 	}
 
 }
